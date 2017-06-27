@@ -1,0 +1,22 @@
+{
+  "name": "dtimer",
+  "version": "1.0.0",
+  "description": "time card creator--for MR.Xu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaisyCream/DTimer.git"
+  },
+  "author": "DaisyCream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaisyCream/DTimer/issues"
+  },
+  "homepage": "https://github.com/DaisyCream/DTimer#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
